@@ -1,7 +1,7 @@
 # **Impressum**  
 Angaben gemäß § 5 TMG
 
-**a'way**  
+**a_way – Initiative für Automatisierung im Immobilienmarkt  **  
 Leibnizstraße 20  
 55118 Mainz  
 
