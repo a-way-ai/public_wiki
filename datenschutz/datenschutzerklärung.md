@@ -2,7 +2,7 @@
 
 ## 1. Verantwortlicher
 
-a_way – Initiative für Automatisierung im Immobilienmarkt  
+a_way GbR
 Leibnizstraße 20  
 55118 Mainz  
 
