@@ -6,7 +6,7 @@ a_way GbR
 Leibnizstraße 20  
 55118 Mainz  
 
-Telefon: +49 162 1994737  
+Telefon: +49 17625816079
 E-Mail: info@a-way.io  
 
 ---
