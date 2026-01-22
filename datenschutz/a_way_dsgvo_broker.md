@@ -13,10 +13,15 @@ Diese Datenschutzerklärung informiert Sie gemäß der **Datenschutz-Grundverord
 ## **2. Verantwortlicher**
 
 **a_way – Initiative für automatisierte Immobilienprozesse**
+
 Inhaber: Adam Kirschstein
+
 Leibnizstraße 20
+
 55118 Mainz
+
 E-Mail: **[info@a-way.io](mailto:info@a-way.io)**
+
 
 ---
 
