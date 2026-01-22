@@ -1,7 +1,7 @@
 # **Datenschutzerklärung**
 
 für **a_way – Initiative für automatisierte Immobilienprozesse**
-*(Stand: aktuell)*
+*(Stand: 22.01.2026)*
 
 ## **1. Einleitung**
 
@@ -13,6 +13,7 @@ Diese Datenschutzerklärung informiert Sie gemäß der **Datenschutz-Grundverord
 ## **2. Verantwortlicher**
 
 **a_way – Initiative für automatisierte Immobilienprozesse**
+Inhaber: Adam Kirschstein
 Leibnizstraße 20
 55118 Mainz
 E-Mail: **[info@a-way.io](mailto:info@a-way.io)**
@@ -23,32 +24,37 @@ E-Mail: **[info@a-way.io](mailto:info@a-way.io)**
 
 Wir verarbeiten personenbezogene Daten ausschließlich auf Grundlage der DSGVO und nur zu festgelegten Zwecken.
 
-### **3.1 Einwilligung (Art. 6 Abs. 1 lit. a DSGVO)**
+### **3.1 Vertrag oder vorvertragliche Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO)**
 
-Freiwillige Angaben werden erst nach Ihrer ausdrücklichen Einwilligung verarbeitet.
-Ohne Einwilligung speichern wir ausschließlich technisch notwendige Informationen.
+Wenn Sie uns über Chat/WhatsApp kontaktieren oder eine Wohnung anfragen, verarbeiten wir Ihre Daten, um:
 
-### **3.2 Vertrag oder vorvertragliche Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO)**
+* Ihre Anfrage aufzunehmen und zuzuordnen (Wohnung/Inserat)
+* Ihr Profil zu erfassen (z. B. Haushaltsgröße, Einzugstermin)
+* die Eignung für die angefragte Wohnung einzuschätzen (Scoring/Matching)
+* Besichtigungstermine zu koordinieren und zu bestätigen
 
-Wenn Sie uns mit der Suche nach einer Mietwohnung beauftragen oder Unterlagen im Rahmen eines Mietverhältnisses übermitteln, verarbeiten wir Ihre Daten zur Durchführung dieser Anfrage.
+### **3.2 Einwilligung (Art. 6 Abs. 1 lit. a DSGVO)**
+
+Bestimmte Angaben können freiwillig sein (z. B. Zusatzinformationen). Soweit wir für einzelne Verarbeitungen eine Einwilligung einsetzen, können Sie diese jederzeit widerrufen.
 
 ### **3.3 Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)**
 
-Wir nutzen anonymisierte Daten zu statistischen Zwecken und zur Verbesserung unserer Systeme. Ein Personenbezug besteht hierbei nicht.
+Wir nutzen **anonymisierte/aggregierte** Daten zur Stabilität, Fehleranalyse und zur Verbesserung unserer Prozesse. Dabei versuchen wir einen Personenbezug zu vermeiden.
 
 ---
 
 ## **4. Welche Daten wir verarbeiten**
 
-Je nach Interaktion mit unseren Chatbots, Systemen oder Mitarbeitenden können wir folgende Daten erheben:
+Je nach Interaktion mit unseren Chatbots, Systemen oder Mitarbeitenden können wir folgende Daten verarbeiten:
 
 * **Identitätsdaten:** Vor- und Nachname
-* **Kontaktdaten:** Telefonnummer, E-Mail-Adresse
-* **Immobilienpräferenzen:** Lage, Budget, Größe, Einzugstermin
-* **Selbstauskunft (freiwillige Angaben):** berufliche Situation, Haushaltsgröße
-* **Kommunikationsdaten:** Chatverläufe, interne Notizen, Rückmeldungen
+* **Kontaktdaten:** Telefonnummer/WhatsApp-ID, ggf. E-Mail-Adresse
+* **Anfrage-/Objektdaten:** Bezug zur angefragten Wohnung (z. B. Inserat-Link), Terminwünsche
+* **Selbstauskunft/Profil:** Haushaltsgröße, Einzugsdatum, berufliche Situation (Freitext), grobe Einkommenskategorie (z. B. Low/Medium/High), Präferenzen (z. B. Haustiere)
+* **Kommunikationsdaten:** Chatverläufe, Systemantworten, Status-/Prozessinformationen (z. B. „in Prüfung“, „Termin bestätigt“)
+* **Bewertungsdaten:** Score/Match-Kategorie und Gründe/Parameter (soweit erforderlich für die Prozessentscheidung)
 
-Wir verarbeiten **keine besonderen Kategorien personenbezogener Daten** (Art. 9 DSGVO), außer sie werden aktiv und freiwillig mitgeteilt.
+Wir verarbeiten **keine besonderen Kategorien personenbezogener Daten** (Art. 9 DSGVO), außer sie werden uns ausnahmsweise aktiv und freiwillig mitgeteilt.
 
 ---
 
@@ -56,37 +62,47 @@ Wir verarbeiten **keine besonderen Kategorien personenbezogener Daten** (Art. 9 
 
 ### **5.1 Vermittlung passender Mietobjekte**
 
-Ihre Angaben werden in einer Datenbank gespeichert, um geeignete Immobilien automatisiert und manuell auszuwählen.
+Ihre Angaben werden gespeichert und verarbeitet, um passende Mietobjekte auszuwählen und Ihre Anfrage korrekt einer Wohnung zuzuordnen.
 
 ### **5.2 Kommunikation mit Ihnen**
 
-Wir informieren Sie über passende Objekte und koordinieren Termine per Chat, E-Mail oder Telefon.
+Wir kommunizieren mit Ihnen per Chat (primär WhatsApp) und ggf. per E-Mail, um den Prozess zu führen und Termine zu koordinieren.
 
-### **5.3 Automatisierte Empfehlungen (kein Profiling mit Rechtswirkung)**
+### **5.3 KI-Unterstützung (keine automatisierte Entscheidung mit Rechtswirkung)**
 
-Wir nutzen KI-Modelle und Vektordatenbanken, um Empfehlungen zu sortieren und zu priorisieren.
-**Es findet keine automatisierte Entscheidung im Sinne des Art. 22 DSGVO statt.**
-Vermieter*innen entscheiden stets selbst über eine Vergabe.
+Wir setzen KI-Systeme ein, um z. B. Inhalte zu strukturieren (Extraktion), Antworten zu formulieren und Anfragen zu routen.
+**Es findet keine ausschließlich automatisierte Entscheidung im Sinne des Art. 22 DSGVO statt.** Die finale Vermietungsentscheidung trifft stets der Vermieter/die Hausverwaltung.
 
 ---
 
 ## **6. Speicherdauer**
 
-* **Daten aus Mietanfragen:** Löschung spätestens nach **12 Monaten**, sofern kein Mietverhältnis zustande kommt.
-* **Widerruf der Einwilligung:** sofortige Löschung der betroffenen Daten.
-* **Gesetzliche Aufbewahrungsfristen** (z. B. aus Handels- oder Steuerrecht) bleiben unberührt.
+* **Daten aus Mietanfragen:** Löschung spätestens nach **12 Monaten**, sofern kein Mietverhältnis zustande kommt (typischerweise früher, wenn der Prozess beendet ist).
+* **Widerruf/Einwände:** Bei wirksamem Widerruf einer Einwilligung oder berechtigtem Löschersuchen löschen wir die betroffenen Daten im Rahmen der gesetzlichen Vorgaben.
+* **Gesetzliche Aufbewahrungsfristen** (z. B. steuer-/handelsrechtlich) bleiben unberührt.
 
 ---
 
-## **7. Weitergabe der Daten an Dritte**
+## **7. Empfänger & Dienstleister (Auftragsverarbeiter) / Weitergabe an Dritte**
 
-Eine Weitergabe erfolgt nur, wenn erforderlich:
+Wir geben Daten nur weiter, soweit dies für die Vermittlung und Durchführung erforderlich ist:
 
-* **Vermieter*innen / Hausverwaltungen** – zur Vermittlung geeigneter Mietobjekte
-* **IT-Dienstleister (Auftragsverarbeiter nach Art. 28 DSGVO)** – Hosting, E-Mail-Versand, KI-Infrastruktur
-* **Behörden** – wenn gesetzlich verpflichtend
+* **Vermieter*innen / Hausverwaltungen**: erhalten nur Informationen/Ergebnisse, die **für die konkrete Wohnung** relevant sind (z. B. Profilzusammenfassung, Score, Terminstatus).
+* **IT- und Infrastruktur-Dienstleister (Auftragsverarbeiter gem. Art. 28 DSGVO)**: Hosting, Datenbankbetrieb, Workflow-Automation, Messaging sowie KI-Infrastruktur. Dazu zählen insbesondere:
 
-Es findet **keine Übermittlung in Drittstaaten** ohne angemessenes Schutzniveau oder geeignete Garantien gemäß **Art. 44 ff. DSGVO** statt.
+  * **Supabase** (Datenbank/Storage; EU-Hosting, aktuell Frankfurt – standortabhängig nach Konfiguration)
+  * **n8n Hosting** (Workflow-Automation; aktuell EU-Setup, standortabhängig nach Provider/Region)
+  * **WhatsApp Business Platform (Meta)** als Kommunikationsplattform für Nachrichtenversand/-empfang
+  * **AI-Dienstleister** (z. B. OpenAI API) sowie **OpenRouter** (Routing zu Modell-Providern) für Extraktion/Transkription/Routing-Entscheidungen
+  * **Messaging/Event-Backbone** (z. B. RabbitMQ) für interne asynchrone Verarbeitung
+* **Behörden**: wenn wir gesetzlich dazu verpflichtet sind.
+
+**Wichtig:** Eine Weitergabe erfolgt nicht „zu eigenen Zwecken“ der Dienstleister, sondern im Rahmen der technischen Bereitstellung (Auftragsverarbeitung) bzw. im Fall von Plattformanbietern nach deren eigenen Bedingungen.
+
+### Drittstaatentransfers (Art. 44 ff. DSGVO)
+
+Je nach eingesetzten Dienstleistern/Provider-Konfiguration kann eine Verarbeitung **auch außerhalb der EU/EWR** stattfinden (insbesondere bei KI-Providern). In solchen Fällen stellen wir geeignete Garantien sicher (z. B. **DPA/AVV** und Standardvertragsklauseln, soweit erforderlich).
+OpenAI bietet den Abschluss eines **Data Processing Addendum (DPA)** an. ([OpenAI][1])
 
 ---
 
@@ -96,15 +112,14 @@ Sie haben folgende Rechte:
 
 * **Auskunft** (Art. 15 DSGVO)
 * **Berichtigung** (Art. 16 DSGVO)
-* **Löschung („Recht auf Vergessenwerden“) (Art. 17 DSGVO)**
-  – Unsere Chatbots bieten die Funktion *„Lösche meine Daten“*.
+* **Löschung** (Art. 17 DSGVO)
 * **Einschränkung der Verarbeitung** (Art. 18 DSGVO)
 * **Datenübertragbarkeit** (Art. 20 DSGVO)
 * **Widerruf einer Einwilligung** (Art. 7 Abs. 3 DSGVO)
-* **Widerspruch gegen die Verarbeitung** (Art. 21 DSGVO)
+* **Widerspruch** (Art. 21 DSGVO)
 
-Kontakt zur Ausübung Ihrer Rechte:
-**[datenschutz@a-way.example](mailto:datenschutz@a-way.example)**
+Kontakt zur Ausübung Ihrer Rechte: **[info@a-way.io](mailto:info@a-way.io)**
+(Sobald vorhanden, kann hier zusätzlich eine dedizierte Datenschutzadresse ergänzt werden.)
 
 Sie können sich zudem an die zuständige Datenschutzaufsichtsbehörde wenden.
 
@@ -112,18 +127,31 @@ Sie können sich zudem an die zuständige Datenschutzaufsichtsbehörde wenden.
 
 ## **9. Sicherheit und Verschlüsselung**
 
-Wir schützen personenbezogene Daten durch moderne technische und organisatorische Maßnahmen (Art. 32 DSGVO), darunter:
+Wir schützen personenbezogene Daten durch technische und organisatorische Maßnahmen (Art. 32 DSGVO), darunter:
 
-* SSL/TLS-Verschlüsselung
+* TLS/HTTPS-Verschlüsselung der Übertragungswege
 * Rollen- und Berechtigungskonzepte
-* Zugriffsbeschränkungen
+* Zugriffsbeschränkungen und Protokollierung
 * regelmäßige Sicherheits- und Systemprüfungen
-* Schulungen für Mitarbeitende
+* Schulungen/Prozesse, um unnötige Speicherung sensibler Dokumente zu vermeiden
 
-Zugriff erhalten ausschließlich berechtigte Personen.
+### WhatsApp-Hinweis (Ende-zu-Ende-Verschlüsselung)
+
+WhatsApp ist grundsätzlich stark verschlüsselt. Bei der Kommunikation mit Unternehmen kann WhatsApp im Chat zusätzliche Hinweise anzeigen und die Einordnung der Verschlüsselung hängt u. a. davon ab, wie der Business-Account Nachrichten verarbeitet/verwaltet. ([WhatsApp Hilfezentrum][2])
+
+### KI-Datenverarbeitung (No-Training Default, soweit konfiguriert)
+
+* **OpenAI API:** Daten, die an die OpenAI API gesendet werden, werden standardmäßig **nicht zum Training** verwendet, außer es wird ausdrücklich opt-in aktiviert. ([OpenAI Plattform][3])
+* **OpenRouter:** OpenRouter beschreibt eine **Zero-Data-Retention** bzw. kein Prompt-Logging, sofern nicht ausdrücklich aktiviert, und bietet Einstellungen, um Routing zu Providern mit Training zu vermeiden. ([OpenRouter][4])
 
 ---
 
 ## **10. Änderungen dieser Datenschutzerklärung**
 
 Wir aktualisieren diese Datenschutzerklärung, wenn gesetzliche Vorgaben oder technische Entwicklungen dies erfordern.
+
+
+[1]: https://openai.com/enterprise-privacy/?utm_source=chatgpt.com "Enterprise privacy at OpenAI"
+[2]: https://faq.whatsapp.com/820124435853543?utm_source=chatgpt.com "About end-to-end encryption | WhatsApp Help Center"
+[3]: https://platform.openai.com/docs/guides/your-data?utm_source=chatgpt.com "Data controls in the OpenAI platform"
+[4]: https://openrouter.ai/docs/guides/features/zdr?utm_source=chatgpt.com "Zero Data Retention | How OpenRouter gives you control ..."
