@@ -1,7 +1,7 @@
 # **Impressum**  
 Angaben gemäß § 5 TMG
 
-a_way GbR
+a_way
 Leibnizstraße 20  
 55118 Mainz  
 
