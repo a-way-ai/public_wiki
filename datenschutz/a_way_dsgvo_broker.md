@@ -1,158 +1,261 @@
-# Datenschutzerklärung für a_way – Initiative für automatisierte Immobilienprozesse
+# Datenschutzerklärung für a_way
 
-*(Stand: 22.01.2026)*
+*(Stand: 19.02.2026)*
 
-## 1. Überblick
+---
 
-Wir bieten digitale Dienstleistungen rund um die Vermittlung von Wohnraum an. Damit wir Wohnungssuchenden passende Mietobjekte vorschlagen und Besichtigungstermine koordinieren können, verarbeiten wir personenbezogene Daten u. a. über Chat- und Messaging-Kanäle (insb. WhatsApp) sowie mithilfe automatisierter Workflows.
+## 1. Verantwortlicher
 
-Diese Datenschutzerklärung informiert Sie gemäß Art. 13, 14 DSGVO darüber, welche Daten wir verarbeiten, zu welchen Zwecken, auf welcher Rechtsgrundlage und welche Rechte Ihnen zustehen.
-
-## 2. Verantwortlicher
-
-**a_way – Initiative für automatisierte Immobilienprozesse**
-
+a_way
 Inhaber: Adam Kirschstein
-
-Leibnizstraße 20, 55118 Mainz
-
+Leibnizstraße 20
+55118 Mainz
 E-Mail: [info@a-way.io](mailto:info@a-way.io)
 
-## 3. Kategorien personenbezogener Daten
+---
 
-Je nach Interaktion (Chatbot, WhatsApp, E-Mail, Telefon, Website) verarbeiten wir insbesondere:
+## 2. Allgemeine Hinweise zur Datenverarbeitung
 
-1. **Stammdaten**: Vor- und Nachname.
-2. **Kontaktdaten**: Telefonnummer/WhatsApp-ID, ggf. E-Mail-Adresse.
-3. **Anfrage- und Objektdaten**: Bezug zur angefragten Wohnung (z. B. Inserat-Link/Objekt-ID), Terminwünsche, Status im Vermittlungsprozess.
-4. **Profil-/Selbstauskünfte (freiwillig oder erforderlich je nach Wohnung)**: Haushaltsgröße, gewünschter Einzugstermin, berufliche Situation (Freitext), grobe Einkommenskategorie (z. B. Low/Medium/High), Präferenzen (z. B. Haustiere).
-5. **Kommunikationsdaten**: Chatverläufe, Nachrichteninhalte, Systemantworten, Zeitpunkte, Zustell-/Protokollinformationen.
-6. **Match-/Priorisierungsdaten (interne Kategorien)**: interne Zuordnung/Match-Kategorie zur Steuerung von Prozessschritten (z. B. „Unterlagen fehlen“, „Termin möglich“, „Warteliste“) und – soweit erforderlich – ein technischer Priorisierungsstatus.
+Wir verarbeiten personenbezogene Daten im Einklang mit der Datenschutz-Grundverordnung (DSGVO).
 
-**Hinweis zu sensiblen Daten:** Wir bitten Sie, **keine besonderen Kategorien personenbezogener Daten** nach Art. 9 DSGVO (z. B. Gesundheitsdaten) über WhatsApp/Chat zu übermitteln. Sollten Sie solche Daten dennoch freiwillig senden, verarbeiten wir sie nur, soweit dies zur Bearbeitung Ihrer Anfrage erforderlich ist bzw. Sie ausdrücklich eingewilligt haben.
+Je nach Verarbeitungssituation treten wir entweder als:
 
-## 4. Zwecke und Rechtsgrundlagen
+* **Verantwortlicher** im Sinne von Art. 4 Nr. 7 DSGVO oder
+* **Auftragsverarbeiter** im Sinne von Art. 4 Nr. 8 DSGVO
 
-Wir verarbeiten personenbezogene Daten ausschließlich, soweit eine Rechtsgrundlage besteht.
+auf.
 
-### 4.1 Anbahnung und Durchführung der Vermittlung / Besichtigung (Art. 6 Abs. 1 lit. b DSGVO)
+Diese Datenschutzerklärung informiert Sie gemäß Art. 13 und 14 DSGVO über Art, Umfang, Zwecke, Rechtsgrundlagen sowie Ihre Rechte.
 
-Wenn Sie eine Wohnung anfragen oder uns kontaktieren, verarbeiten wir Ihre Daten, um:
+---
 
-* Ihre Anfrage einer konkreten Wohnung/einem Inserat zuzuordnen,
-* die **Passung Ihrer Angaben zu den objektiven Anforderungen der angefragten Wohnung** (z. B. Haushaltsgröße, Einzugstermin) zu prüfen,
-* Prozessschritte zu steuern (z. B. Rückfragen, Unterlagenstatus),
-* **Besichtigungstermine zu koordinieren, zu bestätigen oder Alternativen vorzuschlagen**.
+# TEIL A – INFORMATIONEN FÜR MIETINTERESSENTEN (LEADS)
 
-### 4.2 Kommunikation über WhatsApp / E-Mail / Telefon (Art. 6 Abs. 1 lit. b DSGVO; ggf. Art. 6 Abs. 1 lit. a DSGVO)
+## 3. Unsere Rolle bei Mietinteressenten
 
-Wir kommunizieren mit Ihnen über den von Ihnen gewählten Kanal (insb. WhatsApp). Wenn Sie WhatsApp nutzen, werden Daten auch durch WhatsApp/Meta verarbeitet (siehe Abschnitt 7 und 8).
+Bei der Verarbeitung von Daten von Mietinteressenten handeln wir grundsätzlich **als Auftragsverarbeiter** im Auftrag des jeweiligen Vermieters, Maklers oder der Hausverwaltung.
 
-**Alternative Kontaktwege:** Wenn Sie WhatsApp nicht nutzen möchten, können Sie uns alternativ per E-Mail ([info@a-way.io](mailto:info@a-way.io)) kontaktieren.
+Der jeweilige Vermieter bzw. Makler ist **Verantwortlicher** für diese Daten.
 
-### 4.3 Technischer Betrieb, IT-Sicherheit und Fehlerbehebung (Art. 6 Abs. 1 lit. f DSGVO)
+Wir verarbeiten die Daten ausschließlich auf Grundlage eines Auftragsverarbeitungsvertrags gemäß Art. 28 DSGVO.
 
-Zur Sicherstellung des technischen Betriebs, zur Abwehr von Angriffen sowie zur Fehleranalyse und -behebung verarbeiten wir **notwendige technische Protokolldaten** (z. B. Zugriffszeitpunkte, Systeme/Requests, ggf. IP-Adresse bei Websitezugriffen). Dabei wird ein Personenbezug soweit möglich vermieden bzw. Daten werden frühestmöglich pseudonymisiert/gekürzt.
+---
 
-### 4.4 Gesetzliche Pflichten (Art. 6 Abs. 1 lit. c DSGVO)
+## 4. Kategorien personenbezogener Daten
 
-Soweit wir gesetzlichen Aufbewahrungs- oder Nachweispflichten unterliegen (z. B. handels-/steuerrechtliche Pflichten), verarbeiten wir Daten zur Erfüllung dieser Pflichten.
+Je nach Interaktion verarbeiten wir:
 
-## 5. Automatisierte Verarbeitung / KI-Unterstützung
+**Stammdaten**
 
-Wir setzen KI-gestützte Systeme ein, um Inhalte zu **strukturieren** (z. B. Extraktion von Einzugsdatum/Haushaltsgröße), Antworten zu **entwerfen** und Anfragen **zu routen**.
+* Vor- und Nachname
 
-### 5.1 Match-/Priorisierung für Terminsteuerung
+**Kontaktdaten**
 
-Zur Vergabe begrenzter Besichtigungs-Slots kann eine **automatisierte Priorisierung** erfolgen (z. B. „Terminfenster passt/passt nicht“, „Rückfrage erforderlich“). Die Priorisierung dient ausschließlich der **Prozess- und Terminsteuerung**.
+* Telefonnummer / WhatsApp-ID
+* ggf. E-Mail-Adresse
 
-* **Keine Entscheidung über ein Mietverhältnis:** Es erfolgt **keine ausschließlich automatisierte Entscheidung** über den Abschluss oder die Begründung eines Mietverhältnisses oder über Entscheidungen mit vergleichbarer rechtlicher Wirkung.
-* **Kein Anspruch auf einen Termin:** Aus einer Anfrage ergibt sich **kein Rechtsanspruch** auf einen Besichtigungstermin; Termine hängen u. a. von Kapazitäten und Vorgaben der Vermieterseite ab.
-* **Menschliche Prüfung möglich:** Wenn Sie der Ansicht sind, dass eine Terminsteuerung fehlerhaft ist, können Sie sich jederzeit unter [info@a-way.io](mailto:info@a-way.io) melden; wir prüfen den Vorgang manuell.
+**Objekt- und Anfragedaten**
 
-## 6. Speicherdauer
+* Referenz zur angefragten Wohnung
+* Einzugsdatum
+* Haushaltsgröße
+* Terminwünsche
+* Status im Vermittlungsprozess
 
-Wir speichern personenbezogene Daten nur so lange, wie es für die genannten Zwecke erforderlich ist:
+**Selbstauskünfte**
 
-* **Laufende Anfrage/Besichtigungskoordination:** für die Dauer der Bearbeitung.
-* **Nach Abschluss/Abbruch des Vermittlungsprozesses:** grundsätzlich **bis zu 6 Monate** zur Dokumentation und zur Abwehr/Verteidigung möglicher Rechtsansprüche.
-* **Längerfristige Kontaktaufnahme für weitere Angebote („Suchprofil“):** nur, wenn Sie dies **ausdrücklich wünschen/einwilligen**; in diesem Fall speichern wir Ihr Profil **bis zu 12 Monate** oder bis zum Widerruf.
-* **Gesetzliche Aufbewahrungsfristen** bleiben unberührt.
+* berufliche Situation (Freitext)
+* grobe Einkommenskategorie
+* Präferenzen (z. B. Haustiere)
 
-## 7. Empfänger, Auftragsverarbeiter und gemeinsame Verantwortlichkeiten
+**Kommunikationsdaten**
 
-Wir geben Daten nur weiter, soweit dies zur Vermittlung/Terminorganisation erforderlich ist oder eine Rechtsgrundlage besteht.
+* Chatverläufe
+* Nachrichteninhalte
+* Zeitpunkte
+* technische Protokolldaten
 
-### 7.1 Vermieter*innen / Hausverwaltungen
+**Technische Prozesskategorien**
 
-Für die konkret angefragte Wohnung erhalten Vermieter*innen/Hausverwaltungen in der Regel nur die hierfür erforderlichen Informationen (z. B. Profilzusammenfassung, Status, Terminwünsche/Terminstatus). Vermieter*innen/Hausverwaltungen verarbeiten Daten **in eigener datenschutzrechtlicher Verantwortung**.
+* interne Status-/Priorisierungskategorien zur Steuerung des Vermittlungsprozesses
 
-### 7.2 Dienstleister (Auftragsverarbeiter gem. Art. 28 DSGVO)
+### Hinweis zu besonderen Kategorien (Art. 9 DSGVO)
 
-Wir setzen IT-Dienstleister ein (Hosting, Datenbank, Automatisierung, Messaging, KI-Infrastruktur). Diese verarbeiten Daten weisungsgebunden auf Basis eines Auftragsverarbeitungsvertrags.
+Bitte übermitteln Sie keine sensiblen Daten (z. B. Gesundheitsdaten).
+Sollten solche Daten dennoch freiwillig übermittelt werden, verarbeiten wir sie nur, soweit dies zur Bearbeitung Ihrer Anfrage erforderlich ist oder Sie ausdrücklich eingewilligt haben.
 
-Zu den eingesetzten Kategorien/Tools können gehören:
+---
 
-* **Datenbank/Storage/Hosting** (z. B. Supabase – Hosting/Region abhängig von Konfiguration)
-* **Workflow-Automation** (z. B. n8n – Hosting/Region abhängig von Provider/Region)
-* **Messaging/Kommunikation** (z. B. WhatsApp Business Platform/Cloud API über Meta oder einen Business Solution Provider)
-* **KI-Infrastruktur** (z. B. OpenAI API; OpenRouter als Routing-Dienst zu Modellanbietern – je nach Konfiguration)
-* **Interne Event-/Queue-Systeme** (z. B. RabbitMQ)
+## 5. Zwecke und Rechtsgrundlagen
 
-### 7.3 Behörden und Dritte
+Die Rechtsgrundlage für die Verarbeitung Ihrer Daten ist grundsätzlich:
 
-Wir geben Daten an Behörden/sonstige Dritte nur weiter, wenn wir hierzu rechtlich verpflichtet sind oder dies zur Rechtsverfolgung erforderlich ist.
+**Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen)**
+zur Bearbeitung Ihrer Wohnungsanfrage.
 
-## 8. Drittlandübermittlungen (Art. 44 ff. DSGVO)
+Die Verarbeitung dient insbesondere:
 
-Je nach gewählten Dienstleistern/Provider-Konfiguration (insbesondere Messaging- und KI-Infrastruktur) kann eine Verarbeitung auch außerhalb der EU/EWR stattfinden.
+* Zuordnung Ihrer Anfrage zu einer konkreten Wohnung
+* Prüfung der objektiven Passung (z. B. Haushaltsgröße, Einzugstermin)
+* Koordination und Vergabe von Besichtigungsterminen
+* Kommunikation mit Ihnen
 
-In solchen Fällen setzen wir geeignete Garantien ein, insbesondere:
+---
 
-* Abschluss von **Auftragsverarbeitungsverträgen (AVV/DPA)**,
-* **EU-Standardvertragsklauseln (SCC)** und – soweit erforderlich – zusätzliche Maßnahmen.
+## 6. Automatisierte Verarbeitung / KI-Systeme
 
-## 9. Website (falls genutzt)
+Wir setzen technische Systeme zur Strukturierung von Anfragen, zur Terminsteuerung und zur Unterstützung der Kommunikation ein.
 
-Beim Besuch unserer Website können Server-Logdaten anfallen (z. B. IP-Adresse, Zeitpunkt, angefragte Ressource, User-Agent), um die Website bereitzustellen und zu schützen (Art. 6 Abs. 1 lit. f DSGVO).
+Dabei kann eine automatisierte Priorisierung zur Organisation begrenzter Besichtigungskapazitäten erfolgen.
 
-Sofern wir Cookies oder vergleichbare Technologien einsetzen, informieren wir hierüber gesondert (z. B. Cookie-Banner) und holen – soweit erforderlich – eine Einwilligung ein.
+**Wichtig:**
+Es erfolgt keine ausschließlich automatisierte Entscheidung über den Abschluss eines Mietvertrags im Sinne von Art. 22 DSGVO.
+Die Entscheidung über ein Mietverhältnis trifft ausschließlich der jeweilige Vermieter oder Makler.
 
-## 10. Ihre Rechte
+Sie können jederzeit eine menschliche Überprüfung verlangen ([info@a-way.io](mailto:info@a-way.io)).
 
-Sie haben gegenüber uns folgende Rechte nach der DSGVO:
+---
+
+## 7. Weitergabe an Vermieter / Makler
+
+Im Rahmen der Vermittlung erhalten Vermieter oder Makler die für die angefragte Wohnung erforderlichen Informationen. Diese verarbeiten Ihre Daten in eigener datenschutzrechtlicher Verantwortung.
+
+---
+
+## 8. Speicherdauer (Mietinteressenten)
+
+* Während laufender Anfrage: für die Dauer der Bearbeitung
+* Nach Abschluss des Vermittlungsprozesses: bis zu 6 Monate
+* Längere Speicherung (bis max. 12 Monate) nur bei ausdrücklichem Wunsch (Suchprofil)
+* Bewerbungsunterlagen (z. B. Ausweis, SCHUFA, Gehaltsnachweise): keine dauerhafte Speicherung; Löschung nach Sichtung
+
+Gesetzliche Aufbewahrungspflichten bleiben unberührt.
+
+---
+
+# TEIL B – INFORMATIONEN FÜR GESCHÄFTSKUNDEN
+
+## 9. Verarbeitung von Geschäftskundendaten
+
+Für Geschäftskunden handeln wir als **Verantwortlicher**.
+
+### Kategorien von Daten
+
+* Account-Daten (Unternehmen, Einstellungen)
+* Nutzer-Daten (Name, E-Mail, Rolle, optional Telefon)
+* Authentifizierungsdaten
+* Nutzungs- und Logdaten
+
+---
+
+## 10. Zwecke und Rechtsgrundlagen
+
+### a) Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO)
+
+* Einrichtung und Verwaltung von Nutzerkonten
+* Authentifizierung
+* Bereitstellung der Plattform
+* Kommunikation und Abrechnung
+
+Im Rahmen der technischen Bereitstellung kann ein Nutzerkonto vorab angelegt werden (Pilotphase). Hierüber werden Sie im Onboarding informiert.
+
+### b) IT-Sicherheit und Systembetrieb (Art. 6 Abs. 1 lit. f DSGVO)
+
+Verarbeitung technischer Protokolldaten zur Sicherstellung des Betriebs, zur Fehleranalyse und Missbrauchsprävention.
+
+### c) Gesetzliche Pflichten (Art. 6 Abs. 1 lit. c DSGVO)
+
+Erfüllung handels- und steuerrechtlicher Aufbewahrungspflichten.
+
+---
+
+## 11. Speicherdauer (Geschäftskunden)
+
+* Account-Daten: Dauer der Vertragsbeziehung + 30 Tage
+* Abrechnungsdaten: gemäß gesetzlicher Fristen (i. d. R. 10 Jahre)
+* Technische Logs: 90 Tage
+
+---
+
+# TEIL C – ALLGEMEINE INFORMATIONEN
+
+## 12. Empfänger und Auftragsverarbeiter
+
+Wir setzen folgende Dienstleister ein:
+
+* Hosting & Datenbank: Supabase (EU-Region Frankfurt)
+* Workflow-Automation: n8n (EU-Hosting)
+* Messaging: WhatsApp Business Platform (Meta)
+* KI-Infrastruktur: OpenAI API, OpenRouter
+* E-Mail-Versand: Brevo (EU)
+
+Diese Dienstleister verarbeiten Daten auf Grundlage von Auftragsverarbeitungsverträgen gemäß Art. 28 DSGVO.
+
+Eine aktuelle Liste kann unter [info@a-way.io](mailto:info@a-way.io) angefordert werden.
+
+---
+
+## 13. Drittlandübermittlungen (Art. 44 ff. DSGVO)
+
+Soweit Dienstleister außerhalb der EU/des EWR eingesetzt werden (z. B. KI- oder Messaging-Anbieter), erfolgt die Übermittlung auf Grundlage geeigneter Garantien, insbesondere:
+
+* EU-Standardvertragsklauseln (SCC)
+* zusätzlicher technischer und organisatorischer Schutzmaßnahmen
+
+---
+
+## 14. Datensicherheit
+
+Wir treffen angemessene technische und organisatorische Maßnahmen gemäß Art. 32 DSGVO, insbesondere:
+
+* TLS-Verschlüsselung
+* Mandantentrennung (Row Level Security)
+* Rollen- und Berechtigungskonzept
+* Zugriffsbeschränkungen
+* getrennte Systemumgebungen
+* Minimierungsprinzip
+
+---
+
+## 15. Website
+
+Beim Besuch unserer Website verarbeiten wir Server-Logdaten (Art. 6 Abs. 1 lit. f DSGVO).
+Sofern Cookies eingesetzt werden, informieren wir gesondert.
+
+---
+
+## 16. Ihre Rechte
+
+Sie haben folgende Rechte:
 
 * Auskunft (Art. 15 DSGVO)
 * Berichtigung (Art. 16 DSGVO)
 * Löschung (Art. 17 DSGVO)
-* Einschränkung der Verarbeitung (Art. 18 DSGVO)
+* Einschränkung (Art. 18 DSGVO)
 * Datenübertragbarkeit (Art. 20 DSGVO)
-* Widerruf einer Einwilligung (Art. 7 Abs. 3 DSGVO)
-* Widerspruch gegen Verarbeitung auf Grundlage berechtigter Interessen (Art. 21 DSGVO)
+* Widerruf von Einwilligungen (Art. 7 Abs. 3 DSGVO)
+* Widerspruch gegen berechtigte Interessen (Art. 21 DSGVO)
 
-**Kontakt zur Ausübung Ihrer Rechte:** [info@a-way.io](mailto:info@a-way.io)
+Kontakt: [info@a-way.io](mailto:info@a-way.io)
 
-Sie haben außerdem das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren (Art. 77 DSGVO). Für Rheinland-Pfalz ist dies insbesondere:
+Sie haben zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren.
 
-**Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz**
+Zuständig für Rheinland-Pfalz:
+Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz
 Hintere Bleiche 34, 55116 Mainz
-Postfach 30 40, 55020 Mainz
-Web: datenschutz.rlp.de
 
-## 11. Pflicht zur Bereitstellung von Daten
+---
 
-Bestimmte Angaben sind erforderlich, um Ihre Anfrage zu bearbeiten und einen Termin zu koordinieren (z. B. Kontaktmöglichkeit, Bezug zur Wohnung, Einzugstermin/Haushaltsgröße). Ohne diese Daten können wir den Prozess ggf. nicht durchführen.
+## 17. Pflicht zur Bereitstellung von Daten
 
-## 12. Datensicherheit
+Bestimmte Angaben sind erforderlich, um Ihre Anfrage zu bearbeiten.
+Ohne diese Daten kann der Vermittlungsprozess ggf. nicht durchgeführt werden.
 
-Wir schützen personenbezogene Daten durch angemessene technische und organisatorische Maßnahmen nach Art. 32 DSGVO, u. a.:
+---
 
-* Transportverschlüsselung (TLS/HTTPS)
-* Rollen- und Berechtigungskonzepte
-* Zugriffsbeschränkungen und Protokollierung
-* regelmäßige Sicherheits- und Systemprüfungen
-* Prozesse zur Datenminimierung (z. B. Aufforderung, keine unnötigen sensiblen Dokumente über Chat zu senden)
+## 18. Änderungen
 
-## 13. Änderungen dieser Datenschutzerklärung
+Wir passen diese Datenschutzerklärung bei Bedarf an.
+Die jeweils aktuelle Version ist unter a-way.io/datenschutz abrufbar.
 
-Wir aktualisieren diese Datenschutzerklärung, wenn dies aufgrund rechtlicher, technischer oder organisatorischer Änderungen erforderlich ist.
+
