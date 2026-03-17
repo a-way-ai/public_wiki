@@ -2,18 +2,21 @@
 
 ## 1. Verantwortlicher
 
-a_way GbR
+a_way
 Leibnizstraße 20  
 55118 Mainz  
 
 Telefon: +49 17625816079
 E-Mail: info@a-way.io  
+Web: onlyrent.io
+
+OnlyRent ist ein Produkt von a_way.
 
 ---
 
 ## 2. Allgemeine Hinweise
 
-Wir freuen uns über Ihr Interesse an unserer Website. Der Schutz personenbezogener Daten hat für uns einen hohen Stellenwert. Diese Datenschutzerklärung informiert über Art, Umfang und Zweck der Verarbeitung personenbezogener Daten beim Besuch unserer Webseiten.
+Wir freuen uns über Ihr Interesse an OnlyRent. Der Schutz personenbezogener Daten hat für uns einen hohen Stellenwert. Diese Datenschutzerklärung informiert über Art, Umfang und Zweck der Verarbeitung personenbezogener Daten beim Besuch unserer Webseiten.
 
 Die Nutzung unserer Website ist grundsätzlich ohne Angabe personenbezogener Daten möglich. Soweit personenbezogene Daten (Name, E-Mail-Adresse, Telefonnummer etc.) erhoben werden, erfolgt dies – soweit möglich – stets auf freiwilliger Basis.
 
@@ -123,8 +126,9 @@ Kontakt hierfür: info@a-way.io
 
 ## 10. Änderung dieser Datenschutzerklärung
 
-Wir behalten uns vor, diese Erklärung anzupassen, falls gesetzliche Vorgaben oder technische Änderungen dies erfordern. Die jeweils aktuelle Version ist jederzeit auf dieser Website abrufbar.
+Wir behalten uns vor, diese Erklärung anzupassen, falls gesetzliche Vorgaben oder technische Änderungen dies erfordern. Die jeweils aktuelle Version ist jederzeit auf onlyrent.io abrufbar.
 
 ---
 
-Stand: Februar 2025
+Stand: März 2026
+
