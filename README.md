@@ -1,8 +1,8 @@
 
-# **📘 Rechtliche Dokumente – a_way Initiative für automatisierte Immobilienprozesse**
+# **📘 Rechtliche Dokumente – OnlyRent by a_way**
 
-In diesem Repository werden alle rechtlich relevanten Dokumente der
-**a_way – Initiative für automatisierte Immobilienprozesse** bereitgestellt.
+In diesem Repository werden alle rechtlich relevanten Dokumente für
+**OnlyRent** bereitgestellt – ein Produkt von **a_way**, der Initiative für automatisierte Immobilienprozesse.
 Dazu gehören insbesondere:
 
 * **Datenschutzerklärungen**
@@ -14,7 +14,7 @@ Alle Dokumente werden in Markdown-Struktur abgelegt, um:
 
 * Änderungen transparent nachverfolgen zu können
 * Versionen sauber dokumentiert zu halten
-* einheitliche rechtliche Grundlagen für alle a_way-Prozesse und Tools bereitzustellen
+* einheitliche rechtliche Grundlagen für alle OnlyRent-Prozesse und Tools bereitzustellen
 
 ---
 
@@ -51,10 +51,8 @@ Alle Dokumente sind rein informatorisch und dienen der rechtlichen Transparenz.
 
 ## **📬 Kontakt**
 
-**a_way – Initiative für automatisierte Immobilienprozesse**
+**OnlyRent by a_way**
 Leibnizstraße 20
 55118 Mainz
 E-Mail: **[info@a-way.io](mailto:info@a-way.io)**
-
-
-Soll ich das für dich anlegen?
+Web: **[onlyrent.io](https://onlyrent.io)**
