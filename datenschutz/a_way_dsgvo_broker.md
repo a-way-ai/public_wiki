@@ -1,6 +1,6 @@
-# Datenschutzerklärung für a_way
+# Datenschutzerklärung für OnlyRent
 
-*(Stand: 19.02.2026)*
+*(Stand: März 2026)*
 
 ---
 
@@ -11,6 +11,9 @@ Inhaber: Adam Kirschstein
 Leibnizstraße 20
 55118 Mainz
 E-Mail: [info@a-way.io](mailto:info@a-way.io)
+Web: [onlyrent.io](https://onlyrent.io)
+
+OnlyRent ist ein Produkt von a_way.
 
 ---
 
@@ -104,7 +107,7 @@ Die Verarbeitung dient insbesondere:
 
 ## 6. Automatisierte Verarbeitung / KI-Systeme
 
-Wir setzen technische Systeme zur Strukturierung von Anfragen, zur Terminsteuerung und zur Unterstützung der Kommunikation ein.
+OnlyRent setzt technische Systeme zur Strukturierung von Anfragen, zur Terminsteuerung und zur Unterstützung der Kommunikation ein.
 
 Dabei kann eine automatisierte Priorisierung zur Organisation begrenzter Besichtigungskapazitäten erfolgen.
 
@@ -154,7 +157,7 @@ Für Geschäftskunden handeln wir als **Verantwortlicher**.
 
 * Einrichtung und Verwaltung von Nutzerkonten
 * Authentifizierung
-* Bereitstellung der Plattform
+* Bereitstellung der OnlyRent-Plattform
 * Kommunikation und Abrechnung
 
 Im Rahmen der technischen Bereitstellung kann ein Nutzerkonto vorab angelegt werden (Pilotphase). Hierüber werden Sie im Onboarding informiert.
@@ -219,7 +222,7 @@ Wir treffen angemessene technische und organisatorische Maßnahmen gemäß Art. 
 
 ## 15. Website
 
-Beim Besuch unserer Website verarbeiten wir Server-Logdaten (Art. 6 Abs. 1 lit. f DSGVO).
+Beim Besuch unserer Website (onlyrent.io) verarbeiten wir Server-Logdaten (Art. 6 Abs. 1 lit. f DSGVO).
 Sofern Cookies eingesetzt werden, informieren wir gesondert.
 
 ---
@@ -256,6 +259,4 @@ Ohne diese Daten kann der Vermittlungsprozess ggf. nicht durchgeführt werden.
 ## 18. Änderungen
 
 Wir passen diese Datenschutzerklärung bei Bedarf an.
-Die jeweils aktuelle Version ist unter a-way.io/datenschutz abrufbar.
-
-
+Die jeweils aktuelle Version ist unter onlyrent.io/datenschutz abrufbar.
